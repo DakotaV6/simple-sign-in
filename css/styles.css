@@ -22,7 +22,7 @@ h3 {
     text-transform: uppercase;
     color: black;
 }
-section {
+form {
     background-color: white;
     height: 300px;
     width: 500px;
@@ -33,7 +33,7 @@ a {
 a:visited {
     color: #93ACD2;
 }
-#sign-in {
+button {
     background-color: #3598DB;
     color: white;
     padding: 10px;
