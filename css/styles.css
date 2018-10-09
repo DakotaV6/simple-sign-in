@@ -1,0 +1,41 @@
+/* Color Palette
+#EAF4F9 - Pale Blue
+#DCEAF0 - Light Blue
+#3598DB - Dark Blue
+#7A7376 - Dark Grey
+#C8C4C2 - Light Grey
+#93ACD2 - Smoky Blue
+                */
+
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+body {
+    background-color: #DCEAF0;
+    color: #7a7376;
+}
+h3 {
+    text-transform: uppercase;
+    color: black;
+}
+section {
+    background-color: white;
+    height: 300px;
+    width: 500px;
+}
+a {
+    text-decoration: none; 
+}
+a:visited {
+    color: #93ACD2;
+}
+#sign-in {
+    background-color: #3598DB;
+    color: white;
+    padding: 10px;
+    text-transform: uppercase;
+}
